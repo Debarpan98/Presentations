@@ -1,5 +1,5 @@
 # Presentations
-Gallery of the various projects I have been privileged to present at different workshops
+Gallery of the various projects I have been privileged to work on and present at different workshops
 
 ---
 
